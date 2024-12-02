@@ -1,2 +1,2 @@
-# todo.nvim
+# plan.nvim
 Pretty Todos for neovim
